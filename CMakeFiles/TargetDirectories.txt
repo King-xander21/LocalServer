@@ -1,0 +1,9 @@
+/home/alexander/DEv/Test/Server/build/CMakeFiles/Server.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/edit_cache.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/rebuild_cache.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/list_install_components.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/install.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/install/local.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/install/strip.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/Server_autogen_timestamp_deps.dir
+/home/alexander/DEv/Test/Server/build/CMakeFiles/Server_autogen.dir

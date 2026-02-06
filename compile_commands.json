@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/alexander/DEv/Test/Server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/alexander/DEv/Test/Server/build/Server_autogen/include -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/alexander/Qt/6.10.2/gcc_64/include -isystem /home/alexander/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtNetwork -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o -c /home/alexander/DEv/Test/Server/build/Server_autogen/mocs_compilation.cpp",
+  "file": "/home/alexander/DEv/Test/Server/build/Server_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/alexander/DEv/Test/Server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/alexander/DEv/Test/Server/build/Server_autogen/include -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/alexander/Qt/6.10.2/gcc_64/include -isystem /home/alexander/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtNetwork -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/Server.dir/main.cpp.o -c /home/alexander/DEv/Test/Server/main.cpp",
+  "file": "/home/alexander/DEv/Test/Server/main.cpp",
+  "output": "CMakeFiles/Server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/alexander/DEv/Test/Server/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/alexander/DEv/Test/Server/build/Server_autogen/include -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtCore -isystem /home/alexander/Qt/6.10.2/gcc_64/include -isystem /home/alexander/Qt/6.10.2/gcc_64/mkspecs/linux-g++ -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtWidgets -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtGui -isystem /home/alexander/Qt/6.10.2/gcc_64/include/QtNetwork -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/Server.dir/mainwindow.cpp.o -c /home/alexander/DEv/Test/Server/mainwindow.cpp",
+  "file": "/home/alexander/DEv/Test/Server/mainwindow.cpp",
+  "output": "CMakeFiles/Server.dir/mainwindow.cpp.o"
+}
+]
